@@ -1,24 +1,30 @@
 BEGIN:VCARD
 VERSION:3.0
-N:V Rajesh;Sreeraj;;;
-FN:Sreeraj V Rajesh
-ORG:Ecocee
-ADR;TYPE=WORK:Ecocee-EcoCard , Maliyankara,Pravour,Kerala-683516
-TITLE:Founder
-TEL;TYPE=CELL:9446715884
-TEL;TYPE=WORK:
-TEL;TYPE=HOME:
-TEL;TYPE=MSG:9446715884
-EMAIL;TYPE=WORK:
-URL;TYPE=Digital Business Card:
-URL:
+N:V RAJESH;SREERAJ;;;
+FN:SREERAJ V RAJESH
+ORG:ECOCEE
+ADR;TYPE=WORK:Ecocee,Vavakkad-Pravour,Ernakullam,Kerala,India-683516
+TITLE:FOUNDER
+TEL;TYPE=CELL:+919446715884
+TEL;TYPE=WORK:+919446715884
+TEL;TYPE=HOME:+919446715884
+TEL;TYPE=MSG:+919446715884
+EMAIL;TYPE=WORK:ecoceeteam@gmail.com
+URL;TYPE=Digital Business Card:https://cyberkutti-iedc.github.io/sreerajvrajesh/
+URL:https://cyberkutti-iedc.github.io/ecocee
+URL;TYPE=Website:https://cyberkutti-iedc.github.io/ecocee
+URL;TYPE=Location:https://www.openstreetmap.org/#map=18/10.17668/76.20051
+URL;TYPE=Telegram:https://t.me/cyberkutti
 URL;TYPE=WhatsApp:https://wa.me/9446715884
-URL;TYPE=Instagram:https://instagram.com/sreeraj_vr
+URL;TYPE=Messenger:https://m.me/sreerajvrajesh1
 URL;TYPE=Facebook:https://facebook.com/sreerajvrajesh1
+URL;TYPE=Instagram:https://instagram.com/sreeraj_vr
 URL;TYPE=GitHub:https://github.com/cyberkutti-iedc
-URL;TYPE=Twitter:https://twitter.com/cyber_kutti
+URL;TYPE=LinkedIn:https://linkedin.com/in/sreerajvrajesh
+URL;TYPE=Twitter:https://twitter.com/cyberkutti
 URL;TYPE=YouTube:https://youtube.com/cyberkutti
+URL;TYPE=Spotify:https://open.spotify.com/user/cyberkutti
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:
-UID:EnBizCard-100193029
+NOTE:Ecocee is a New Networking Brand With AI | ML | DP
+UID:EnBizCard-100221496
 END:VCARD
